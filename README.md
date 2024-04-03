@@ -35,6 +35,7 @@ Logical circuit of the above expressions is given below:
 Figure 02  Encoder 8 * 3
 
 **Procedure**
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
@@ -47,6 +48,7 @@ Figure 02  Encoder 8 * 3
 
 
 **PROGRAM**
+
 ```
 Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
@@ -65,12 +67,15 @@ endmodule
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![image](https://github.com/saniyaganesamoorthy/ENCODER8TO3DATAFLOW/assets/145742583/434db704-f535-4737-8932-1baa307a9efb)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![image](https://github.com/saniyaganesamoorthy/ENCODER8TO3DATAFLOW/assets/145742583/2e45e17e-a05f-486e-ac76-17ec02b55f2e)
 
-**RESULTS**
+**RESULTS**:
+
 Therefore the code has been successfully executed.
 
 
